@@ -20,6 +20,7 @@ SourceList["UA22CS"] = {
 	name : "Unearthed Arcana 2022: The Cleric and Revised Species",
 	abbreviation : "UA22CS",
 	date : "2022/12/01",
+	url : "https://media.dndbeyond.com/compendium-images/one-dnd/cleric-and-revised-species/tr8jAj5cc33uQixi/UA-2022-ClericandSpecies.pdf",
 };
 
 /*	-SCRIPT AUTHOR NOTE-
