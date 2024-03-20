@@ -90,7 +90,7 @@ SpellsList["prayer of healing ua22cs"] = {
 	rangeMetric : "9 m",
 	components : "V",
 	duration : "Instantaneous",
-	description : "Spllcstng ablty mod willing creatures heal 4d8+2d8/SL HP \u0026 gain Short Rest benefits", //Ripped directly from "ListsSpells.js" and then altered
+	description : "Spell mod willing creatures heal 2d8+1d8/SL HP \u0026 gain Short Rest benefits", //Ripped directly from "ListsSpells.js" and then altered
 	descriptionFull : "You utter an extended prayer of restoration. Choose a number of willing creatures equal to your Spellcasting Ability Modifier (minimum of 1). Each of those creatures who remains within range for the Spell’s entire casting gains the benefits of a Short Rest and also regains 2d8 Hit Points, and a creature can’t be affected by this Spell again until that creature finishes a Long Rest." + AtHigherLevels + "When you cast this Spell using a Spell Slot of 3rd level or higher, the healing increases by 1d8 for each slot above 2nd.",
 };
 SpellsList["resistance ua22cs"] = {
@@ -139,6 +139,6 @@ SpellsList["prayer of healing ua22cs ua23pt8"] = {
 	rangeMetric : "9 m",
 	components : "V",
 	duration : "Instantaneous",
-	description : "Spllcstng ablty mod willing creatures heal 4d8+2d8/SL HP \u0026 gain Short Rest benefits", //Ripped directly from "ListsSpells.js" and then altered
+	description : "Spell mod willing creatures heal 4d8+2d8/SL HP \u0026 gain Short Rest benefits", //Ripped directly from "ListsSpells.js" and then altered
 	descriptionFull : "SCRIPT AUTHOR NOTE: Modified to be in alignment with the updates to healing spells in UA23PT8; Changes made amount only to doubling the healing of the spell, with no other changes made." + "\n   " + "You utter an extended prayer of restoration. Choose a number of willing creatures equal to your Spellcasting Ability Modifier (minimum of 1). Each of those creatures who remains within range for the Spell’s entire casting gains the benefits of a Short Rest and also regains 4d8 Hit Points, and a creature can’t be affected by this Spell again until that creature finishes a Long Rest." + AtHigherLevels + "When you cast this Spell using a Spell Slot of 3rd level or higher, the healing increases by 2d8 for each slot above 2nd.",
 };
