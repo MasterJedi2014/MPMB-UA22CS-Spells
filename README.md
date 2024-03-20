@@ -18,4 +18,6 @@ This script will allow users to more easily playtest the upcoming revision to D&
 **Known Bugs:**
 - No known bugs at this time. Will update when any are found.
 
+**Script Source:** https://media.dndbeyond.com/compendium-images/one-dnd/cleric-and-revised-species/tr8jAj5cc33uQixi/UA-2022-ClericandSpecies.pdf
+
 For instructions on how to add this script to the sheet, please see this page: https://www.flapkan.com/how-to/add-more-content
