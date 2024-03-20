@@ -18,6 +18,7 @@ This script will allow users to more easily playtest the upcoming revision to D&
 **Script Patch Notes:**
 - **2024-03-20:**
   - Added URL attribute to the source section within the script.
+  - Updated description of the **Prayer of Healing** Spell so that the sheet automatically updates said description with the spellcasting ability modifier of the character.
 
 **Known Bugs:**
 - No known bugs at this time. Will update when any are found.
