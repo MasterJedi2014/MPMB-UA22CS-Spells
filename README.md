@@ -18,7 +18,8 @@ This script will allow users to more easily playtest the upcoming revision to D&
 **Script Patch Notes:**
 - **2024-03-20:**
   - Added URL attribute to the source section within the script.
-  - Updated description of the **Prayer of Healing** Spell so that the sheet automatically updates said description with the spellcasting ability modifier of the character.
+  - Updated description of the **Prayer of Healing** Spells so that the sheet automatically updates their descriptions with the spellcasting ability modifier of the character.
+  - Fixed the description of the original article version of the **Prayer of Healing** Spell so that it says it heals 2d8+1d8/SL like it should rather than matching the altered version that heals 4d8+2d8/SL.
 
 **Known Bugs:**
 - No known bugs at this time. Will update when any are found.
